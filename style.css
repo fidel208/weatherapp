@@ -54,7 +54,7 @@ button {
   outline: solid 1px grey;
   height: 30px;
   font-size: 20px;
-  background-color: aliceblue;
+  background-color: rgb(189, 219, 245);
 }
 button:hover {
   background-color: rgb(123, 247, 247);
